@@ -1,0 +1,22 @@
+Header                   File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\dtm2007g_sim_ampio_finale_3_2022.hdr
+Input hydrographs        File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\SEGONZANOMAX_formattato.txt
+Distribution control flag number  :      1.00
+Land Use                 File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\land_use_ampio_con_aree_sforzi2022_clip.flt
+Land Characteristic      File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\uso_suolo_con_aree_sforzi2022.txt
+Internal Output (1)               :       1.0
+Internal Outputs         File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\sezioni_interne2022_clip.flt
+Second Internal Outputs  File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\sezioni_interne2022_999_clip.flt
+Internal Output Time Step (seconds):           10.0
+Simulation time                   :        7800.00
+Depos. Coeff. for Limit Angle     :     1.000
+Inferior Limit Angle (°) for debris flow routing:      5.00
+Courant number                    :     0.950
+Minimum Flow Depth for Routing (m):   0.03000
+Erosion flag number               :      1.00
+Egashira erosion coefficient     :      0.10
+Egashira deposition coefficient  :      0.05
+Minimum Flow Depth for Eros/Dep(m):   0.10000
+Mean solid concentration          :     0.000
+Rest solid concentration          :     0.000
+Output time step (seconds)     	:   300.000
+Inlet Outlet condition   File:E:\sim2021_2022_Molinara\SIM_paper_2022\file_default_simulazioni\inlet_outlet_dominio_ampio_clip.flt
