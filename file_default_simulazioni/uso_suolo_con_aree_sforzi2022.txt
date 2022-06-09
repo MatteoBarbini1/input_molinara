@@ -1,0 +1,37 @@
+Code	Roughness       Mobile   Erosion Inferior Angle (°)  Erosion Inferior velocity (m/	s)   Deposition Superior Angle (°)  Deposition Superior velocity (m/s)   Dry Bed Concentration  Erosion limit  Structure                              Description
+112       1.0         1.0	       89.0                        9.0                       12.0        0.70              0.62        0.0         0.0               Zone residenziali a tessuto discontinuo e rado
+121       1.0         1.0	       89.0                        9.0                       12.0        0.70              0.62        0.0         0.0               Aree industriali, commerciali e dei servizi pubblici e privati
+122       3.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Reti stradali, commerciali e dei servizi pubblici e privati
+133       3.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Cantieri
+141       2.5         1.0	       18.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Aree verdi urbane
+211       3.0         1.0	       16.0                        2.0                       12.0        0.70              0.62        0.0         0.0               Seminativi in aree non irrigue
+222       2.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Frutteti e frutti minori
+231       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Prati stabili
+311       1.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Boschi non resinose
+312       1.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         0.0               Boschi resinose
+331       3.0         1.0	       20.0                        2.0                       12.0        0.70              0.62        0.0         0.0               Spiaggie, dune e sabbie
+333       4.0         1.0	       16.0                        2.0                       12.0        0.70              0.62        0.0         0.0               Area con vegetazione rada
+340       4.0         1.0          15.0                        2.0                       12.0        0.70              0.75        0.0         0.0               Erosione superficiale localizzata in bosco di resinose
+511       5.0         1.0          20.0                        2.0                       12.0        0.70              0.62        0.0         0.0               Corsi d'acqua, canali e idrovie
+512       1.0         1.0          89.0                        9.0                       12.0        0.70              0.62        0.0         0.0               Bacini d'acqua
+601       5.0         1.0	       20.0                        2.0                       12.0        0.70              0.62        0.0         0.0               Letto alveo canale molinara
+602       5.0         1.0	       20.0                        2.0                       12.0        0.70              0.62        0.0         0.0               Sponde alveo canale molinara
+700       5.0         1.0	       12.0                        0.8                       11.9        0.70              0.75        0.0         0.0               Rio Val Molinara parte "mediana" bacino idrografico
+701       4.0         1.0	       12.0                        0.8                       11.9        0.70              0.75        0.0         0.0               Area interessata dalla colata del 2010 in dx idraulica
+702       4.0         1.0	       12.0                        0.8                       11.9        0.70              0.75        0.0         0.0               Area interessata dalla colata del 2010 in sx idraulica
+703       5.0         1.0	       12.0                        0.8                       11.9        0.70              0.75        0.0         0.0               Soglie morfologiche Rio Val Molinara parte "mediana" bacino idrografico
+704       5.0         1.0	       12.0                        0.8                       11.9        0.70              0.75        0.0         0.0               Scivolo in roccia Rio Val Molinara parte "mediana" bacino idrografico
+705       5.0         1.0	       11.0                        0.6                       10.9        0.59              0.75        0.0         0.0               Rio Val Molinara parte "mediana" bacino idrografico (zona bassa)
+706       4.0         1.0	       11.0                        0.6                       10.9        0.59              0.75        0.0         0.0               Area interessata dalla colata del 2010 in dx idraulica (zona bassa)
+707       4.0         1.0	       11.0                        0.6                       10.9        0.59              0.75        0.0         0.0               Area interessata dalla colata del 2010 in sx idraulica (zona bassa)
+800       3.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+801       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+802       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+803       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+804       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+805       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+806       3.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+807       3.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+808       3.0         1.0	       30.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+809       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
+810       3.0         1.0	       20.0                        3.0                       12.0        0.70              0.62        0.0         1.0               Aree calcolo sforzi paper 2022
